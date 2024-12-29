@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "port": "/dev/ttyACM0",
     "programmer": "avrispmkii",
-    "sketch": "01-blink/01-blink.ino"
+    "sketch": "03-rgb/03-rgb.ino"
 }
